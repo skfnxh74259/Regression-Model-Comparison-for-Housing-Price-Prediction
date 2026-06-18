@@ -127,14 +127,6 @@ Evaluation metrics:
 * Kernel Regression performed significantly worse than the linear models.
 * Using only a single feature for kernel regression likely contributed to underfitting and reduced predictive accuracy.
 
-## Repository Structure
-
-```text
-├── README.md
-├── Project_Report.pdf
-└── regression_model_comparison.py
-```
-
 ## Key Takeaways
 
 * Cross-validation is an effective method for selecting model hyperparameters.
